@@ -21,5 +21,22 @@ Beginning Web Developer. The main goal for me is to change my main employment. S
     * VScode;
     * WebStorm;
 
+## Code Example
+```
+const dateScene = new Composer();
+            dateScene.on('text',async ctx=>{
+                ctx.wizard.state.data.company = ctx.message.text
+                await ctx.reply('Напишите дату дд.мм.гг')
+                return ctx.wizard.next()
+            })
+
+```
+## Education 
+- Tomsk Polytechnic University
+    - ***Master of Science*** in Electric power engineering;
+
+## Languages
+- **English** - Intermediate (B1);
+- **Russian** - Native;
 
 
