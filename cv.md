@@ -12,6 +12,7 @@ Beginning Web Developer. The main goal for me is to change my main employment. S
     * JavaScript;
     * React;
     * Redux/Mobx;
+    * NodeJs + Telegraf;
 * Mobile 
     * React Native;
     * Kotlin;
