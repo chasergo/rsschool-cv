@@ -1,3 +1,3 @@
 # Rsschool
 
-[https://chasergo.github.io/rsschool-cv/cv](link)
+[https://chasergo.github.io/rsschool-cv/cv](CV)
